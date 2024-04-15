@@ -5,6 +5,7 @@ body {
     color: #333;
     margin: 0;
     padding: 0;
+<<<<<<< HEAD
 }
 
 .container {
@@ -52,3 +53,46 @@ div {
     font-weight: 200;
 }
 
+=======
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos para el encabezado */
+.header {
+    background-color: #4285f4;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+/* Estilos para los títulos */
+h1 {
+    color: #4285f4;
+    text-align: center;
+}
+
+/* Estilos para el contenido */
+.content {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el pie de página */
+.footer {
+    background-color: #4285f4;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+>>>>>>> 0a8cd0c (Finalizada la cabecera con diseño CSS)
