@@ -41,8 +41,8 @@ h1 {
 
 /* Estilos para el pie de página */
 .footer {
-    background-color: #4285f4;
-    color: white;
+    background-color: rgba(255, 234, 0, 0.952);
+    color: black; /* Cambiar el color del texto a amarillo */
     padding: 20px;
     text-align: center;
 }
@@ -51,4 +51,3 @@ div {
     text-align: justify;
     font-weight: 200;
 }
-
