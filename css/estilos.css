@@ -15,7 +15,7 @@ body {
 
 /* Estilos para el encabezado */
 .header {
-    background-color: #4285f4;
+    background-color: #f442eb;
     color: white;
     padding: 20px;
     text-align: center;
@@ -27,7 +27,7 @@ body {
 
 /* Estilos para los títulos */
 h1 {
-    color: #4285f4;
+    color: #000000;
     text-align: center;
 }
 
