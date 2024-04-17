@@ -17,7 +17,7 @@ Welcome to hyperBlog_GIT! This is a practical project aimed at familiarizing use
 - Git Command in Case of Emergency
 - Bonus Track Git and GitHub
 
-#🚀       
+🚀       
 
 ####Introduction
 In this course, we delve into the fundamentals of Git, a powerful version control system widely used in software development. Through hands-on exercises and explanations, you will gain a solid understanding of how Git works and how to leverage its features effectively.
@@ -43,6 +43,6 @@ Encountering issues or mistakes in your Git workflow is inevitable. You'll disco
 ####Bonus Track Git and GitHub
 To further expand your Git skills, we'll explore additional features and functionalities offered by Git and GitHub, empowering you to optimize your development workflow and collaborate more efficiently.
 
-#🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃
-#🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟
+🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃🎃
+🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟🛟
 
