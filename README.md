@@ -3,7 +3,7 @@
 
 Welcome to hyperBlog_GIT! This is a practical project aimed at familiarizing users with the usage of Git, particularly within the GitHub platform.
 
-#🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸
+# 🛸
 
 ### GIT GitHub Course Practice 
 
